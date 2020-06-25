@@ -1,0 +1,6 @@
+[submodule "lib/MaixCube_ES8374"]
+	path = lib/MaixCube_ES8374
+	url = https://github.com/fukuen/MaixCube_ES8374.git
+[submodule "lib/MaixCube_eSpeak"]
+	path = lib/MaixCube_eSpeak
+	url = https://github.com/fukuen/MaixCube_eSpeak.git
